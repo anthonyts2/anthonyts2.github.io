@@ -1,0 +1,31 @@
+body{
+  background-image: url(back.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #ed83ff;
+  text-align: center;
+  font-size: 25px;
+}
+
+nav ul{
+  list-style-type: none;
+}
+
+nav ul li{
+  display: inline-block;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+nav ul li a{
+  color: #753ade;
+}
+
+nav ul li a:hover{
+  color: #00ff00;
+}
+
+nav ul li a:active{
+  color: #00ff00;
+}
+​
